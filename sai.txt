@@ -1,0 +1,6 @@
+public satic void main{
+
+int i=5;
+int j=10;
+int sum=i+j;
+}
